@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Bodies",
+  "base_artist": "Offset & JID",
+  "createdAt": "2026-02-18T13:52:33.176411Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Clay Bodies",
+      "artist": "Zola Jesus",
+      "has_synced": false,
+      "path": "select/01_Clay_Bodies_Zola_Jesus.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bodies In Motion",
+      "artist": "Laurie Anderson",
+      "has_synced": true,
+      "path": "select/02_Bodies_In_Motion_Laurie_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Over Our Bodies",
+      "artist": "Longpigs",
+      "has_synced": true,
+      "path": "select/03_Over_Our_Bodies_Longpigs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Star Bodies",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/04_Star_Bodies_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Catching Bodies",
+      "artist": "Guapdad 4000 feat. !llmind",
+      "has_synced": false,
+      "path": "select/05_Catching_Bodies_Guapdad_4000_feat._!llmind.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Catching Bodies",
+      "artist": "Guapdad 4000",
+      "has_synced": false,
+      "path": "select/06_Catching_Bodies_Guapdad_4000.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bodies",
+      "artist": "Black Marble",
+      "has_synced": true,
+      "path": "select/07_Bodies_Black_Marble.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bodies",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/08_Bodies_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bodies and Soul",
+      "artist": "The Pointer Sisters",
+      "has_synced": false,
+      "path": "select/09_Bodies_and_Soul_The_Pointer_Sisters.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bodies And Souls",
+      "artist": "The Pointer Sisters",
+      "has_synced": false,
+      "path": "select/10_Bodies_And_Souls_The_Pointer_Sisters.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dead Bodies",
+      "artist": "AIR",
+      "has_synced": false,
+      "path": "select/11_Dead_Bodies_AIR.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dead Bodies (Live L.A Jan 2000)",
+      "artist": "Air",
+      "has_synced": false,
+      "path": "select/12_Dead_Bodies_(Live_L.A_Jan_2000)_Air.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bodies",
+      "artist": "Farao",
+      "has_synced": true,
+      "path": "select/13_Bodies_Farao.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Why They Hide Their Bodies Under My Garage",
+      "artist": "Blawan",
+      "has_synced": false,
+      "path": "select/14_Why_They_Hide_Their_Bodies_Under_My_Garage_Blawan.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dead Bodies",
+      "artist": "Cex",
+      "has_synced": false,
+      "path": "select/15_Dead_Bodies_Cex.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bodies",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": true,
+      "path": "select/16_Bodies_The_Smashing_Pumpkins.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bodies",
+      "artist": "Offset & JID",
+      "has_synced": false,
+      "path": "select/pl_01_Bodies_Offset_&_JID.txt"
+    }
+  ]
+}
